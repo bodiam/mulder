@@ -98,8 +98,8 @@
 		F366DC1D239BE3DE00D0D6DB /* Mulder */ = {
 			isa = PBXGroup;
 			children = (
-				F366DC1E239BE3DE00D0D6DB /* AppDelegate.swift */,
 				F366DC20239BE3DE00D0D6DB /* ContentView.swift */,
+				F366DC1E239BE3DE00D0D6DB /* AppDelegate.swift */,
 				F366DC22239BE3E100D0D6DB /* Assets.xcassets */,
 				F366DC27239BE3E100D0D6DB /* Main.storyboard */,
 				F366DC2A239BE3E100D0D6DB /* Info.plist */,
