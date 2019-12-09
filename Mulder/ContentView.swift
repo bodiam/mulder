@@ -10,7 +10,7 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {        
-        Image("background")
+        Image("background" + String(Int.random(in: 0 ..< 3)))
     }
 }
 
